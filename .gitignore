@@ -1,0 +1,8 @@
+# Apparatus plugin
+/Plugins
+# UE additional folders
+/Binaries
+/Intermediate
+/Saved
+/DerivedDataCache
+/Script
