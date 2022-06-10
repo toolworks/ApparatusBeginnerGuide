@@ -1,4 +1,4 @@
 # ApparatusLearn - extended tutorial
-The test project created during ```Apparatus: Extended Guide```
+The test project created during ```Apparatus: Extended Guide```.
 
-See https://turbanov.ru/wiki/en/toolworks/docs/apparatus/extended-tutorial for details and steps, how to reproduce the project from scratch. 
+See https://turbanov.ru/wiki/en/toolworks/docs/apparatus/extended-tutorial for details and steps about how to reproduce the project from scratch. 
