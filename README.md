@@ -5,4 +5,4 @@ See https://turbanov.ru/wiki/en/toolworks/docs/apparatus/extended-tutorial for d
 
 ## Currently implemented
 
-- Baackground for UI.
+- Background for UI.
